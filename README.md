@@ -1,8 +1,7 @@
-# Exercicio01-AlgoritmosII
-## Exercício 01 da primeira aula da disciplina de Algoritmos e Programação II - 2020/2.
+## Exercicio 01- Algoritmos e Programação II - 2020/2 
 _____________________________________________________________________________________
 
-### Atividade Aula01 - Revisão Métodos e Listas
+#### Atividade Aula01 - Revisão Métodos e Listas
 
 • Construir um algoritmo que contenha 3 listas:
 
